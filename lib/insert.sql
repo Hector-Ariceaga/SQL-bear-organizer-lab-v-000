@@ -1,4 +1,4 @@
-INSERT INTO (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 4, M, "brown", "Wiley", true);
+INSERT INTO bear(name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 4, M, "brown", "Wiley", true);
 INSERT INTO (name, age, gender, color, temperament, alive) VALUES ("Rowdy", 4, M, "brown", "Wiley", true);
 INSERT INTO (name, age, gender, color, temperament, alive) VALUES ("Tabitha", 4, F, "brown", "Wiley", true);
 INSERT INTO (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown", 4, M, "brown", "Wiley", true);
